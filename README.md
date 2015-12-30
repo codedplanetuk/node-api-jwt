@@ -1,4 +1,4 @@
-# Thoughtstash api - nodejs
+# Demo api - nodejs
 
 Demo project utilising JSON Web Tokens to authenticate a private area of the api.
 
